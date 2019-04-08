@@ -13,6 +13,7 @@ class JackieChain:
         genesis_block = {
             'prev_hash': None,
             'height': 0,
+            'info': '“Don’t try to be like Jackie. There is only one Jackie. Study computers instead.” – Jackie Chan',
             'transactions': []
         }
         return genesis_block
